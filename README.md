@@ -1,5 +1,5 @@
 # CS11-Project
-[Archive]. Made on 1/1/2024. This C program was made for CS 11.
+**[Archive].** *Made on 1/1/2024. This C program was made for CS 11.*
 
 ## all alone.
 Welcome to all alone.<br>
