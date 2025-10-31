@@ -6,7 +6,8 @@
 > all alone. is a short text-based horror game, where the story progresses depending on your actions.<br>
 > You wake up in your new apartment the day after you moved in. However, something is amiss...<br>
 
-The game has 3 different endings, try to get them all!
+The game has 3 different endings, try to get them all!<br>
+**Caution! The game may be a bit janky! Problems will be fixed in the future.**
 
 
 ### Basic Commands
